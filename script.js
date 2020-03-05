@@ -11,7 +11,7 @@ let main = () =>{
         
         
         // Debugging statement
-        console.log(userEmail.value);
+        // console.log(userEmail.value);
 
         //Put the name, email, and message in an object literal notation format
         let userInfo = {
@@ -22,7 +22,7 @@ let main = () =>{
         
         /*Alert the user their information was submitted and shows the values they entered in the respective boxes */
         alert(`Your form has been submitted\n Name: ${userInfo.name}\n Email: ${userInfo.email}\n Message: ${userInfo.message}`)
-        console.log(`Name: ${userInfo.name}\n Email: ${userInfo.email}\n Message ${userInfo.message}`);
+        console.log(`Name: ${userInfo.name}\n Email: ${userInfo.email}\n Message: ${userInfo.message}`);
         //Keeps page from refreshing when pressing submit
         event.preventDefault();
     })
