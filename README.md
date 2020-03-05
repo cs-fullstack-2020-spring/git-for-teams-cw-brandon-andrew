@@ -1,5 +1,8 @@
 # Git for Teams - Classwork Assignment
-
+#### GREAT WORK! Love that you got so creative with the styling. Looks like y'all did a good job splitting the work between JS and HTML/CSS
+### Group Score : 3/3
+#### Andrew : 5/5
+#### Brandon : 5/5
 ### Assignment
 * Before you begin this assignment read all directions and decide how to break up the work
 * Create an HTML, JS, and CSS file
