@@ -1,13 +1,15 @@
 body {
-    background-color: darkred;
+    
     width: 90vh;
     height: 90vh;
+    background-image: url('https://i.pinimg.com/originals/73/0a/0d/730a0da7d1ee5d0a2ec67090e3a6b944.jpg');
+    background-size: 2000px 1000px;
 }
 
 form {
     
     color: aqua;
-    position: relative;top: 30%; left: 30%;
+    position: relative;top: 25%; left: 70%;
     
 }
 
@@ -18,5 +20,10 @@ fieldset {
 
 #submit {
     border-radius: 10px;
-    background-color: darkcyan;
+    background-color: aqua;
+    border-color: aqua;
+    color: gray;
+    width: 105px;
+    height: 40px;
+    font-size: x-large;
 }
