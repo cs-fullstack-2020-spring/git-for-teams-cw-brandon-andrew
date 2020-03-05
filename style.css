@@ -1,0 +1,22 @@
+body {
+    background-color: darkred;
+    width: 90vh;
+    height: 90vh;
+}
+
+form {
+    
+    color: aqua;
+    position: relative;top: 30%; left: 30%;
+    
+}
+
+fieldset {
+    background-color: black;
+    border-color: blue;
+}
+
+#submit {
+    border-radius: 10px;
+    background-color: darkcyan;
+}
