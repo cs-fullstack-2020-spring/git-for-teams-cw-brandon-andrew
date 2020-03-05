@@ -8,7 +8,7 @@ let main = () =>{
         // event.preventDefault;
         
         alert(`Your form has been submitted`);
-        console.log(userEmail.innerHTML);
+        console.log(userEmail.value);
         // let userInfo{
         //     name:userName.innerText,
         // }
